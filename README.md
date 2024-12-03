@@ -6,6 +6,8 @@ Passionate about C++, Objective-C, and all things software engineering, especial
 Exploring the fascinating world of cross-platform development frameworks.
 I like IOS, MacOS environment.
 🤝 What I’m looking for:
+C++ and system programming
+
 
 Open to collaborate on exciting projects—whether I’m invited or find them myself!
 📬 How to reach me:
