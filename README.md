@@ -5,15 +5,16 @@
 [![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umchg)
 
 ### Languages
-| C | C++ | Objective-C | UIKit | Dart | Flutter |
-|---|-----|-------------|-------|------|---------|
-| <img height="40" align="left" src="https://skillicons.dev/icons?i=c"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://icon.icepanel.io/Technology/svg/Objective-C.svg"/> | <img height="40" align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=dart"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=flutter"/> |
+| C | C++ | Objective-C | UIKit | Dart | Flutter | BASH  |
+|---|-----|-------------|-------|------|---------|-------|
+| <img height="40" align="left" src="https://skillicons.dev/icons?i=c"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://icon.icepanel.io/Technology/svg/Objective-C.svg"/> | <img height="40" align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=dart"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=flutter"/> | <img height="40" align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"/> |
 
 
 ### Programs
- | Idea | Maven | Nvim | Cmake |
+ | Idea | Maven | Nvim | Cmake | 
  |------|-------|------|-------|
- | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=neovim"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cmake"/> |
+ | <img height="40" align="left" src="https://skillicons.dev/icons?i=idea"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=maven"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=neovim"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cmake"/> | 
+
 
 ---
 
