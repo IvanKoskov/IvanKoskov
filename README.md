@@ -25,10 +25,7 @@
 
 ---
 
-<details align="left">
-  <summary><h2><b>💭Info</b></h2></summary>
+
   <p>
-  I like creating video games. I'm from Russia. I'm currently creating a <code>СFiles Engine</code> - an engine for 3D video games in C/C++ with <code>OpenGL and etc.</code>.
+ I am very interested in developing software, apps specifically for IOS or cross platform apps with Qt or FLutter. My langauge  of choice is C or C++ as it gives me lost of freedom. Currently Im not developing somwthing specific but rather different small projects. 
   </p>
-</details>
-<img src="https://github.com/adisteyf/adisteyf/assets/94963746/08a849e1-e6a2-4dd8-a165-e5e4e638b7ee" width="100%">
