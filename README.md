@@ -7,7 +7,7 @@
 ### Languages
 | C | C++ | Objective-C | UIKit | Dart | Flutter |
 |---|-----|-------------|-------|------|---------|
-| <img height="40" align="left" src="https://skillicons.dev/icons?i=c"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://icon.icepanel.io/Technology/svg/Objective-C.svg"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=uikit"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=dart"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=flutter"/> |
+| <img height="40" align="left" src="https://skillicons.dev/icons?i=c"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=cpp"/> | <img height="40" align="left" src="https://icon.icepanel.io/Technology/svg/Objective-C.svg"/> | <img height="40" align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=dart"/> | <img height="40" align="left" src="https://skillicons.dev/icons?i=flutter"/> |
 
 
 ### Programs
