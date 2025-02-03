@@ -1,4 +1,4 @@
-<h1 align="center">💠 Hi, im adk. (adisteyf) 💠</h1>
+<h1 align="center">Im Ivan</h1>
 
 
 [![tg](https://img.shields.io/badge/My%20telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evan_Matthew)
@@ -17,12 +17,6 @@
 ---
 
 <p align="center">
-    <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=1" />
-    </picture>
-    <picture>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisteyf&theme=tokyonight&hide_border=true&card_width=330" />
-    </picture>
     <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisteyf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=800" />
     </picture>
