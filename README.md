@@ -23,5 +23,5 @@
 
 
   <p>
- I am very interested in developing software, apps specifically for IOS or cross platform apps with Qt or FLutter. My langauge  of choice is C or C++ as it gives me lost of freedom. Currently Im not developing somwthing specific but rather different small projects. 
+      MacOS nerd
   </p>
